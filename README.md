@@ -1,7 +1,3 @@
-# Visitors
-
-[![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
-
 # Hi, I'm Nikita Kodkany
 
 A grad student at University of Souther California, ex-Data Engineer at Mercedes Benz R&D India
