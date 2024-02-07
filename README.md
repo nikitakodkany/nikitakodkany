@@ -27,13 +27,6 @@ I am an ML enthusiast with expertise in both Natural Language Processing (NLP) a
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
-<h2 align="center"📈 Github Statistics </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nikitakodkany&show_icons=true&theme=radical" alt="nikitakodkany" style="margin-bottom:3px" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitakodkany&layout=compact" alt="nikitakodkany" style="margin-bottom:3px"/>&nbsp;&nbsp;
-</p>
-
-
 <h2 align="center" id="contact">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/nikitakodkany/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
