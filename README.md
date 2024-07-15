@@ -2,9 +2,7 @@
 
 <p align="center">
   <samp>
-Hello! I am a computer science graduate from the University of Southern California with extensive experience in data science, machine learning, data engineering, and analysis. My expertise spans across diverse domains such as healthcare, automobile, education, and agriculture.
-
-I am passionate about leveraging data-driven solutions to solve complex problems and drive innovation. With a solid foundation in statistical models, deep learning, and hands-on project experience, I excel at transforming raw data into actionable insights. Let's connect and explore how we can harness the power of data to create impactful change! <br><br>
+Hello! I am a computer science graduate from the University of Southern California with extensive experience in data science, machine learning, data engineering, and analysis. My expertise spans across diverse domains such as healthcare, automobile, education, and agriculture. I am passionate about leveraging data-driven solutions to solve complex problems and drive innovation. With a solid foundation in statistical models, deep learning, and hands-on project experience, I excel at transforming raw data into actionable insights. Let's connect and explore how we can harness the power of data to create impactful change! <br><br>
   </samp><br><br>
 
 
