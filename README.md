@@ -2,7 +2,9 @@
 
 <p align="center">
   <samp>
-I am a Data Scientist, Engineer and Analyst with expertise in Natural Language Processing (NLP). I discovered my passion for NLP during my undergraduate studies in Computer Science, and have since honed my skills in the field by experimenting with various NLP tools and techniques. Additionally, I have worked on several deep learning projects in computer vision, including image classification, object detection, and semantic segmentation. At the same time I am Data Engineer & a Data Analyst with expertise in building scalable data pipelines and visualizing data using tools such as Tableau, PowerBI, SQL and other Big Data technologies. I am constantly seeking new challenges and opportunities to learn and grow in the field of Data and Machine Learning, and strive to create innovative and impactful solutions that will shape the future of the industry. <br><br>
+Hello! I am a computer science graduate from the University of Southern California with extensive experience in data science, machine learning, data engineering, and analysis. My expertise spans across diverse domains such as healthcare, automobile, education, and agriculture.
+
+I am passionate about leveraging data-driven solutions to solve complex problems and drive innovation. With a solid foundation in statistical models, deep learning, and hands-on project experience, I excel at transforming raw data into actionable insights. Let's connect and explore how we can harness the power of data to create impactful change! <br><br>
   </samp><br><br>
 
 
